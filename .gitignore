@@ -3,7 +3,6 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-vectorstore/
 .DS_Store
 *.egg-info/
 dist/
