@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to learn complex patterns.
+Natural Language Processing (NLP) enables computers to understand human language.
+Large Language Models (LLMs) are trained on massive text datasets to generate human-like text.
+Retrieval Augmented Generation (RAG) combines document retrieval with language generation.
+In RAG, a user query is used to search a vector database for relevant documents.
+The retrieved documents are then passed to an LLM as context to generate accurate answers.
+FAISS is a library developed by Facebook AI for efficient similarity search.
+Embeddings are numerical vector representations of text that capture semantic meaning.
+Sentence transformers convert sentences into fixed-size embedding vectors.
+LangChain is a framework that helps build applications powered by language models.
+Vector stores index embeddings so similar documents can be retrieved quickly.
+Chunking means splitting large documents into smaller overlapping pieces for better retrieval.
+Prompt engineering involves crafting instructions to guide LLM behavior effectively.
