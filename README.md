@@ -1,5 +1,9 @@
 # 🤖 RAG Chatbot — Retrieval Augmented Generation
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-chatbot-8pzzsskqpnnmxtvpfscndp.streamlit.app/)
+
+
 A production-style AI chatbot that answers questions from your own documents using **Retrieval Augmented Generation (RAG)**. Built with LangChain, FAISS, Groq LLaMA 3.3, and Streamlit.
 
 ---
