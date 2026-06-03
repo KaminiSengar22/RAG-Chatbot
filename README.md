@@ -90,4 +90,4 @@ rag-chatbot/
 ## 👩‍💻 Author
 
 **Kamini Sengar** — AI/ML Engineer  
-[GitHub](https://github.com/KaminiSengar22) • [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/KaminiSengar22) • [LinkedIn](https://linkedin.com/in/kamini-sengar-3b7a5320a)
